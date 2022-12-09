@@ -677,15 +677,17 @@ Test video：
 
 https://youtu.be/MAwL17DLQEk
 
+![Light sensor-MP3 player-OLED screen](https://user-images.githubusercontent.com/115070572/206734531-82b4e2b4-510b-4ead-bf6b-2b1aeec479d0.jpg)
 
+###  ****Housing****
 
+<img width="800" alt="36" src="https://user-images.githubusercontent.com/115070572/206734965-c28fe3d4-f0c5-43d4-8cde-f6b03e4cefe2.png">
+<img width="772" alt="37" src="https://user-images.githubusercontent.com/115070572/206734942-683766a1-8a9b-485a-9990-b1657d44e6c7.png">
+<img width="805" alt="38" src="https://user-images.githubusercontent.com/115070572/206734947-772e0d87-0d93-4da4-af97-708f67fa7405.png">
+<img width="792" alt="39" src="https://user-images.githubusercontent.com/115070572/206734957-1bee15d8-e574-4e21-93f1-75b85475a758.png">
 
-
-
-
-
-
-
+Video link：
+https://www.youtube.com/watch?v=C87QbsIIhBA&feature=youtu.be
 
 
 
