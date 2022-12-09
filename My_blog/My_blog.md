@@ -90,10 +90,20 @@ https://www.qutaojiao.com/24170.html
 
 <img width="769" alt="17" src="https://user-images.githubusercontent.com/115070572/206727146-3851c8c6-df48-4fc5-b129-764e81478ed9.png">
 <img width="777" alt="18" src="https://user-images.githubusercontent.com/115070572/206727154-b9c49dfa-8c75-4f0b-8c89-e83790d905d5.png">
+Reference：
 
+https://arduinogetstarted.com/tutorials/arduino-rfid-nfc-relay
+https://circuitdigest.com/microcontroller-projects/interfacing-rfid-reader-module-with-arduino
+https://randomnerdtutorials.com/security-access-using-mfrc522-rfid-reader-with-arduino/ 
+https://arduinogetstarted.com/tutorials/arduino-rfid-nfc-relay 
 
+4. Test in progress
+https://user-images.githubusercontent.com/115070572/206727666-5d09cb5e-3ba7-4033-a53f-78afa674e152.mp4
 
-
+For more test video in this process：
+https://youtu.be/V572j5w-C2M
+https://youtu.be/hIWhkmBdmGk
+https://youtu.be/ZMogIVy8eSI
 
 
 
