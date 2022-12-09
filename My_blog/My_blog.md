@@ -12,6 +12,8 @@ Second problem：to show the forwork， screen or projection or ？
 Third problem：to put out the fire， which interaction should be adopted？blow or ？
 <img width="794" alt="2" src="https://user-images.githubusercontent.com/115070572/206721803-bc4dde07-9b02-46eb-b018-98e9773f2859.png">
 
+
+
 [========]
 
-# WEEK6 MAKE PROPOSAL
+## WEEK6
