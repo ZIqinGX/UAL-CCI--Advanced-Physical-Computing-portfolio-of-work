@@ -70,12 +70,13 @@ https://randomnerdtutorials.com/security-access-using-mfrc522-rfid-reader-with-a
 <img width="471" alt="14" src="https://user-images.githubusercontent.com/115070572/206725966-ab66cef5-190d-4c2f-bc21-afed6dc04f8e.png">
 
 <img width="330" alt="15" src="https://user-images.githubusercontent.com/115070572/206726171-edd4b51e-1cb4-48ea-b01c-fc46f933fb58.png">
-Reference links (https://randomnerdtutorials.com/security-access-using-mfrc522-rfid-reader-with-arduino/ ))
+Reference links https://randomnerdtutorials.com/security-access-using-mfrc522-rfid-reader-with-arduino/
 
 
 <img width="395" alt="16" src="https://user-images.githubusercontent.com/115070572/206726754-dc7c60bd-1ae8-45c4-86f2-5809e3e654c2.png">
 
 Reference：
+
 https://www.bilibili.com/video/BV1zt411e7Hk/?spm_id_from=333.337.search-card.all.click&vd_source=c70028e487e853e784c31fc42e0454a8
 https://github.com/FastLED/FastLED/
 https://www.bilibili.com/video/BV1Z7411p7QV/?spm_id_from=333.788.recommend_more_video.-1&vd_source=c70028e487e853e784c31fc42e0454a8 
@@ -87,7 +88,8 @@ https://www.qutaojiao.com/24170.html
 
 
 
-
+<img width="769" alt="17" src="https://user-images.githubusercontent.com/115070572/206727146-3851c8c6-df48-4fc5-b129-764e81478ed9.png">
+<img width="777" alt="18" src="https://user-images.githubusercontent.com/115070572/206727154-b9c49dfa-8c75-4f0b-8c89-e83790d905d5.png">
 
 
 
