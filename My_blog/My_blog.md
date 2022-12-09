@@ -280,7 +280,17 @@ switch (state == 1) {
 <img width="798" alt="24" src="https://user-images.githubusercontent.com/115070572/206730129-d1531ac3-c953-40bf-9680-9cea9499f3e1.png">
 <img width="778" alt="25" src="https://user-images.githubusercontent.com/115070572/206730140-16e0a255-6e83-4b56-80b7-67ea204bfd42.png">
 
+4.Test videos:
+https://youtu.be/NisM9_UwT3Q
+https://youtu.be/vtuazbwwS_c
+https://youtu.be/yWdwkDjdv20
 
+5.Reference:
+https://circuitdigest.com/microcontroller-projects/interfacing-sound-sensor-with-arduino
+https://www.jianshu.com/p/c06d7057edab
+https://www.arduino.cc/reference/en/language/structure/control-structure/switchcase/
+https://sensorkit.joy-it.net/en/sensors/ky-037
+https://electropeak.com/learn/interfacing-ky-037-sound-sensor-with-arduino/ 
 
 
 
