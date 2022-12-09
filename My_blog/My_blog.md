@@ -293,7 +293,7 @@ https://www.arduino.cc/reference/en/language/structure/control-structure/switchc
 https://sensorkit.joy-it.net/en/sensors/ky-037
 https://electropeak.com/learn/interfacing-ky-037-sound-sensor-with-arduino/ 
 
-## WEEK8 DEVELOPMENT
+## WEEK9 DEVELOPMENT
 
 
 
@@ -301,6 +301,39 @@ https://electropeak.com/learn/interfacing-ky-037-sound-sensor-with-arduino/
 <img width="753" alt="26" src="https://user-images.githubusercontent.com/115070572/206731679-af43a8cf-f4f4-4a2f-81f6-9cf7f313e75b.png">
 <img width="799" alt="27" src="https://user-images.githubusercontent.com/115070572/206731680-b70a3ee9-e02e-4df0-a58f-978e04e80d34.png">
 <img width="796" alt="28" src="https://user-images.githubusercontent.com/115070572/206731682-0b406e26-a81d-4d71-b494-206e079602a5.png">
+2. Use light controlled resistor to control screen from an example that use it to control motor
+Reference:
+http://programmermagazine.github.io/201401/htm/article1.html
+https://www.electronics-lab.com/project/using-st7735-1-8-color-tft-display-arduino/ 
+
+
+<img width="724" alt="29" src="https://user-images.githubusercontent.com/115070572/206732067-1b0d2366-e288-4d49-bbf5-18bfe4d019aa.png">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
