@@ -40,9 +40,11 @@ because sensors and strip board need time to deliver
 ## WEEK7 DEVELOPMENT
 ###  ****THINGS I HAVE NOW****
 <img width="557" alt="9" src="https://user-images.githubusercontent.com/115070572/206723990-28d5f095-c6e6-469e-9040-aea58b707af6.png">
+
 ###  ****SEARCH FOR EXAMPLES OF RFID EXAMPLES****
 https://forum.arduino.cc/t/rfid-mfrc522-h-wont-work-with-new-arduino-uno-wifi-rev2/560861
 https://randomnerdtutorials.com/security-access-using-mfrc522-rfid-reader-with-arduino/
+
 ###  ****HOW IT WORKS***
 1.The UIDs of NFC tags are set
 2.When user hold NFC tags and tap tag on RFID reader, reader read the UID of tags 
