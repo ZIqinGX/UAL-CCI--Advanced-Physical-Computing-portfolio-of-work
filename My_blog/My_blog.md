@@ -20,3 +20,13 @@ Third problem：to put out the fire， which interaction should be adopted？blo
 <img width="781" alt="8" src="https://user-images.githubusercontent.com/115070572/206722866-ab74064e-43fc-427e-b242-0e2c606ecbf6.png">
 <img width="772" alt="3" src="https://user-images.githubusercontent.com/115070572/206722867-298ae558-33b3-4fdf-9218-d4333853be90.png">
 <img width="761" alt="4" src="https://user-images.githubusercontent.com/115070572/206722869-323c3052-2e81-4a35-9b21-e62c975cd172.png">
+
+
+### **WHAT I DID FOR WEEK 6 Buy sensorS/Coding/Determine interactive method** 
+1.make a time schedule to see what I should do for several weeks
+2.tutorial with teacher on Monday and Wednesday，get some good ideas to improve my sensor and actuator. Suggested to use microphone sensor and NFC tag to simplify my installation
+3.Improve my design by drawing
+4. Check Amozon website to see what I should buy
+5.start coding fireworks by processing or P5js
+because sensors and strip board need time to deliver
+6.making first generation of prototypes
