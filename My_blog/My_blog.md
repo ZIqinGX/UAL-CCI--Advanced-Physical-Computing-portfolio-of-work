@@ -22,7 +22,7 @@ Third problem：to put out the fire， which interaction should be adopted？blo
 <img width="761" alt="4" src="https://user-images.githubusercontent.com/115070572/206722869-323c3052-2e81-4a35-9b21-e62c975cd172.png">
 
 
-### **WHAT I DID FOR WEEK 6 ** 
+### WHAT I DID FOR WEEK 6 
 Buy sensors/Coding/Determine interactive method
 
 1.make a time schedule to see what I should do for several weeks
@@ -36,4 +36,4 @@ because sensors and strip board need time to deliver
 ## WEEK7 DEVELOPMENT
 ###  ****DRAFTS****
 
-### **WHAT I DID FOR WEEK 7 ** 
+### WHAT I DID FOR WEEK 7 
