@@ -53,5 +53,20 @@ https://randomnerdtutorials.com/security-access-using-mfrc522-rfid-reader-with-a
 5.If UIDs matches, LED strip lights.
 
 ### WHAT I DID FOR WEEK 7 
+
+
+
 <img width="749" alt="11" src<img width="774" alt="12" src="https://user-images.githubusercontent.com/115070572/206725331-1ce2dbbd-f10b-4f83-90cf-52c768535b07.png">
 ="https://user-images.githubusercontent.com/115070572/206725315-0be3b39f-8533-41da-8ae0-805db95e702c.png">
+
+
+
+
+
+<img width="749" alt="11" src="https://user-images.githubusercontent.com/115070572/206725631-e41e599f-d7d7-4b42-969e-b324e63a4b0a.png">
+
+
+
+
+
+
