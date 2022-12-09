@@ -33,7 +33,20 @@ Buy sensors/Coding/Determine interactive method
 because sensors and strip board need time to deliver
 6.making first generation of prototypes
 
+
+<img width="809" alt="10" src="https://user-images.githubusercontent.com/115070572/206724500-dbdb02bf-86d1-498b-936d-27baf2600b5e.png">
+
 ## WEEK7 DEVELOPMENT
-###  ****DRAFTS****
+###  ****Things I have now****
+<img width="557" alt="9" src="https://user-images.githubusercontent.com/115070572/206723990-28d5f095-c6e6-469e-9040-aea58b707af6.png">
+###  ****Search for eaxmples of RFID reader****
+https://forum.arduino.cc/t/rfid-mfrc522-h-wont-work-with-new-arduino-uno-wifi-rev2/560861
+https://randomnerdtutorials.com/security-access-using-mfrc522-rfid-reader-with-arduino/
+###  ****How it works****
+1.The UIDs of NFC tags are set
+2.When user hold NFC tags and tap tag on RFID reader, reader read the UID of tags 
+3. Arduino get the UID and shown in monitor
+4. Arduino will compare the UID with authorised UIDs
+5.If UIDs matches, LED strip lights.
 
 ### WHAT I DID FOR WEEK 7 
