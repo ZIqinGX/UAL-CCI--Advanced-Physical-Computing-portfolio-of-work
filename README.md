@@ -56,4 +56,32 @@ https://create.arduino.cc/projecthub/krivanja/working-with-an-led-and-a-push-but
 https://blog.csdn.net/u010921682/article/details/121627288
 https://roboindia.com/tutorials/arduino-nano-digital-input-push-button/
 https://blog.csdn.net/u010921682/article/details/121627288
+https://forum.arduino.cc/t/rfid-mfrc522-h-wont-work-with-new-arduino-uno-wifi-rev2/560861
+https://randomnerdtutorials.com/security-access-using-mfrc522-rfid-reader-with-arduino/
+https://www.bilibili.com/video/BV1zt411e7Hk/?spm_id_from=333.337.search-card.all.click&vd_source=c70028e487e853e784c31fc42e0454a8
+https://github.com/FastLED/FastLED/ 
+https://www.bilibili.com/video/BV1Z7411p7QV/?spm_id_from=333.788.recommend_more_video.-1&vd_source=c70028e487e853e784c31fc42e0454a8 
+https://forum.arduino.cc/t/uno-using-5v-and-3-3v-pins-at-the-same-time/984126 
+https://www.circuitgeeks.com/ws2812b-addressable-rgb-led-strip-with-arduino/ 
+https://howtomechatronics.com/tutorials/arduino/how-to-control-ws2812b-individually-addressable-leds-using-arduino/ 
+https://lingshunlab.com/book/arduino/arduino-uno-turn-on-ws2812b-color-leds 
+https://www.qutaojiao.com/24170.html 
+https://create.arduino.cc/projecthub/krivanja/working-with-light-dependent-resistor-ldr-1ded4f
+http://programmermagazine.github.io/201401/htm/article1.html
+https://www.electronics-lab.com/project/using-st7735-1-8-color-tft-display-arduino/
+https://diyusthad.com/image2cpp
+https://forum.arduino.cc/t/arduino-hex-ie-0xfb00-color-chart/356353/3 
+https://diyusthad.com/2019/02/display-images-in-oled-display.html 
+https://arduinogetstarted.com/tutorials/arduino-rfid-nfc
+https://www.arduino.cc/reference/en/ 
 
+### Reference code from
+https://arduinogetstarted.com/tutorials/arduino-rfid-nfc-relay
+https://circuitdigest.com/microcontroller-projects/interfacing-rfid-reader-module-with-arduino
+https://randomnerdtutorials.com/security-access-using-mfrc522-rfid-reader-with-arduino/ 
+https://arduinogetstarted.com/tutorials/arduino-rfid-nfc-relay 
+https://blog.jmaker.com.tw/arduino-st7735/ 
+https://sensorkit.joy-it.net/en/sensors/ky-037
+https://electropeak.com/learn/interfacing-ky-037-sound-sensor-with-arduino/ 
+https://circuitdigest.com/microcontroller-projects/interfacing-sound-sensor-with-arduino
+https://www.jianshu.com/p/c06d7057edab
