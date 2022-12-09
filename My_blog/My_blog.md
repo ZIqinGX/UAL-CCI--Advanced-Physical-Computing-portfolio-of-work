@@ -202,6 +202,7 @@ for (int i = 0; i <= 19; i++) {
 
 <img width="806" alt="20" src="https://user-images.githubusercontent.com/115070572/206728893-51986749-70dd-4a6c-a7f9-739ad2233352.png">
 
+![RFID-strip](https://user-images.githubusercontent.com/115070572/206731776-e9d4db0f-1203-49db-86ae-8ca521a2b717.jpg)
 
 ## WEEK8 DEVELOPMENT
 1.<img width="797" alt="21" src="https://user-images.githubusercontent.com/115070572/206729291-16d8f5c2-69af-4bdb-b7e8-be782be9653d.png">
@@ -297,6 +298,9 @@ https://electropeak.com/learn/interfacing-ky-037-sound-sensor-with-arduino/
 
 
 
+<img width="753" alt="26" src="https://user-images.githubusercontent.com/115070572/206731679-af43a8cf-f4f4-4a2f-81f6-9cf7f313e75b.png">
+<img width="799" alt="27" src="https://user-images.githubusercontent.com/115070572/206731680-b70a3ee9-e02e-4df0-a58f-978e04e80d34.png">
+<img width="796" alt="28" src="https://user-images.githubusercontent.com/115070572/206731682-0b406e26-a81d-4d71-b494-206e079602a5.png">
 
 
 
