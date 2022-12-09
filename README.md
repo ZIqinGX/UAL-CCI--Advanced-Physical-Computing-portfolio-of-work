@@ -31,12 +31,19 @@ Resistor 220ohm x1 1k x2
 
 ### Advantages
 1.Environment friendly
+
 The most important use of this installation is it is enviorment friendly and can replace traditional action of set fireworks to memorize people we care to some extent thus release the burden of air condition.
+
 2.Entertainment
+
 It can also be used to entertainment and enjoy electrical fireworks at any where any time you like.
+
 3.Resource Saved
+
 In the future, it may save a lot of resource used to make fireworks such as paper.
+
 4.Safety
+
 This installation can prevent fire hazard because of it do not need real fire to light.
 
 ### Future possibility
