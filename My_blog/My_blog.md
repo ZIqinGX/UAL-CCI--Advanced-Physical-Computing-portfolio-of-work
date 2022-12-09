@@ -67,6 +67,15 @@ https://randomnerdtutorials.com/security-access-using-mfrc522-rfid-reader-with-a
 
 <img width="780" alt="13" src="https://user-images.githubusercontent.com/115070572/206725785-f39b8939-4e34-4402-9959-b82e37bfccb9.png">
 
+<img width="471" alt="14" src="https://user-images.githubusercontent.com/115070572/206725966-ab66cef5-190d-4c2f-bc21-afed6dc04f8e.png">
+
+<img width="330" alt="15" src="https://user-images.githubusercontent.com/115070572/206726171-edd4b51e-1cb4-48ea-b01c-fc46f933fb58.png">
+Reference links
+[Reference links]([http://localhost/](https://randomnerdtutorials.com/security-access-using-mfrc522-rfid-reader-with-arduino/ ))
+
+
+
+
 
 
 
