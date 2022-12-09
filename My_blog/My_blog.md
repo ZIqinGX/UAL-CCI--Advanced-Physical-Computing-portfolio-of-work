@@ -34,7 +34,8 @@ because sensors and strip board need time to deliver
 6.making first generation of prototypes
 
 
-<img width="809" alt="10" src="https://user-images.githubusercontent.com/115070572/206724500-dbdb02bf-86d1-498b-936d-27baf2600b5e.png">
+<img width="806" alt="10" src="https://user-images.githubusercontent.com/115070572/206724828-c8b61eae-1ad5-4f73-b803-3058f56b293d.png">
+
 
 ## WEEK7 DEVELOPMENT
 ###  ****Things I have now****
