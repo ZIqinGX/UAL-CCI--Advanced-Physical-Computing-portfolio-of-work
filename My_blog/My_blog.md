@@ -7,7 +7,7 @@ So I want to make an electric firework installation to see fireworks at anytime.
 <img width="806" alt="1" src="https://user-images.githubusercontent.com/115070572/206720639-4f06d79a-bf4a-4a4d-a6b9-c174d6bf02ac.png">
 
 
-**Things need to decide so far**
+**THINGS NEED TO DECIDE SO FAR**
 
 First problem：How to light the “lighter”or“fire”， by pressure or ？
 Second problem：to show the forwork， screen or projection or ？
