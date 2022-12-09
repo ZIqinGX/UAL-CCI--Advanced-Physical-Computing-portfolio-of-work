@@ -47,7 +47,7 @@ In the future, it may save a lot of resource used to make fireworks such as pape
 This installation can prevent fire hazard because of it do not need real fire to light.
 
 ### Future possibility
-This project still requires a lot of work to improve. First is in the future, I want to change the way it shows fireworks from screen into projection because it looks more overwhleming.Besides, I am going to change myanimation programming so that fireworks can be more random. Third, I am going to add more inputs such as ultrasonic sensor and color sensor to make it more interatcive and more flexible.Finally, the size of installation should be reconsidered based on different using senario.  
+This project still requires a lot of work to improve. First is in the future, I want to change the way it shows fireworks from screen into projection because it looks more overwhelming. Besides, I am going to change my animation programming so that fireworks can be more random. Third, I am going to add more inputs such as ultrasonic sensor and color sensor to make it more interactive and more flexible. Finally, the size of installation should be reconsidered based on different using senario.  
 
 ### Reference
 Here are all links that helps me when doing this porject:
