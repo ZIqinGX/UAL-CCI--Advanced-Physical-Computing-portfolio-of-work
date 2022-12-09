@@ -74,21 +74,15 @@ Reference links (https://randomnerdtutorials.com/security-access-using-mfrc522-r
 
 
 <img width="395" alt="16" src="https://user-images.githubusercontent.com/115070572/206726754-dc7c60bd-1ae8-45c4-86f2-5809e3e654c2.png">
+
 Reference：
 https://www.bilibili.com/video/BV1zt411e7Hk/?spm_id_from=333.337.search-card.all.click&vd_source=c70028e487e853e784c31fc42e0454a8
-
-https://github.com/FastLED/FastLED/ 
-
+https://github.com/FastLED/FastLED/
 https://www.bilibili.com/video/BV1Z7411p7QV/?spm_id_from=333.788.recommend_more_video.-1&vd_source=c70028e487e853e784c31fc42e0454a8 
-
 https://forum.arduino.cc/t/uno-using-5v-and-3-3v-pins-at-the-same-time/984126 
-
 https://www.circuitgeeks.com/ws2812b-addressable-rgb-led-strip-with-arduino/ 
-
 https://howtomechatronics.com/tutorials/arduino/how-to-control-ws2812b-individually-addressable-leds-using-arduino/ 
-
 https://lingshunlab.com/book/arduino/arduino-uno-turn-on-ws2812b-color-leds 
-
 https://www.qutaojiao.com/24170.html 
 
 
