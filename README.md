@@ -9,7 +9,7 @@ Welcome to this creative project I made for term one. It is an electrical firewo
 It is based on the background that in Chinese, these days in most city, people are not allowed to set off fireworks because it will polluting the air and may cause fire hazard, however it is our tradition to set fireworks to celebrate new year. So I want to make an electrical fireworks installation so that people can enjoy any time any where.
 
 ### Four Inputs and four outputs and ineractive process introduction
-The whole interaction process can be divided into three main parts.First is how to light the fake fire. Second is how to show fireworks. Finally， how to extinguish the fake fire. To answer these questions. I used four inputs which are button status, Microphone sensor value, NFC tag UID number and light value read by light conrolled resistor and four outputs including includes LED, ws2818b LED strip, ST7735 screen, DF MP3 palyer. 
+The whole interaction process can be divided into three main parts.First is how to light the fake fire. Second is how to show fireworks. Finally,how to extinguish the fake fire. To answer these questions. I used four inputs which are button status, Microphone sensor value, NFC tag UID number and light value read by light conrolled resistor and four outputs including includes LED, ws2818b LED strip, ST7735 screen, DF MP3 palyer. 
 
 The first part has two inputs and one output is button and microphone sensor to control LED. Press the button to start the LED which represents fake fire. The LED will keep lighting until user blow towards microphone sensor. When this action is dected, LED will turn off， which means fake fire has been blowed.
 
